@@ -1,14 +1,14 @@
 Chuyển sang bộ dataset đơn giản hơn về Flood 
 
 Flood Prediction Dataset   - Kaggle
-
+Link; https://www.kaggle.com/datasets/naiyakhalid/flood-prediction-dataset/data
 
 ============================================
 
 ### Các Thông Tin Cơ Bản về Bộ Dữ Liệu
 
 - **Số lượng dòng:** 50,000
-- **Số lượng cột:** 21
+- **Số lượng cột:** 22
 - **Không có giá trị thiếu** trong các cột, điều này giúp tiết kiệm thời gian làm sạch dữ liệu.
 - **Loại biến:** Tất cả các biến đều là dạng số (`int64`), không có biến phân loại.
 
